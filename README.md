@@ -2,7 +2,7 @@
 
 ## I am an electrical engineer who turned into a data scientist. I'm driven by learning and developing solutions through knowledge!
 
-- 💻 I’m currently still working as an Engineer ( waiting for an opportunity as Data Scientist);
+- 💻 I’m currently still working as an Engineer ( looking for an opportunity as Data Scientist);
 - 👨‍🎓 I have a bachelor's degree and a master's degree in electrical engineering;
 - 👨‍🏫 I also teach at an electrical engineering undergraduate course in a local university;
 - 📖 I spend some time everyday studying data science related subjects.
