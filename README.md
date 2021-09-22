@@ -39,9 +39,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-<img align="left" alt="Under Construction" width="100px" src="https://www.pngkit.com/png/full/208-2087380_construction-icon-under-construction.png" /> <br> <br>
-
-Under construction!
+* [Accurate sales prediction right in your pocket](https://filiperesminids.wordpress.com/2021/09/11/store-sales-prediction/) 
+* [Book Review – Naked Statistics (PT-BR: Estatística: o que é, para que serve, como funciona)](https://filiperesminids.wordpress.com/2021/08/24/book-review-naked-statistics/)
 
 <br>
 
