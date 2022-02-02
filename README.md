@@ -2,9 +2,8 @@
 
 ## I am an electrical engineer who turned into a data scientist. I'm driven by learning and developing solutions through knowledge!
 
-- 💻 I’m currently still working as an Engineer ( looking for an opportunity as Data Scientist);
+- 💻 Data Scientist
 - 👨‍🎓 I have a bachelor's degree and a master's degree in electrical engineering;
-- 👨‍🏫 I also teach at an electrical engineering undergraduate course in a local university;
 - 📖 I spend some time everyday studying data science related subjects.
 
 ### if you want to reach me:
@@ -39,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+* [Metrics 101 - Performance Evaluation in Classification Models](https://filiperesminids.wordpress.com/2021/11/12/metrics-101-performance-evaluation-in-classification-models/) 
 * [Accurate sales prediction right in your pocket](https://filiperesminids.wordpress.com/2021/09/11/store-sales-prediction/) 
 * [Book Review – Naked Statistics (PT-BR: Estatística: o que é, para que serve, como funciona)](https://filiperesminids.wordpress.com/2021/08/24/book-review-naked-statistics/)
 
